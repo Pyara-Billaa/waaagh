@@ -8,3 +8,4 @@ export { default as tuska } from "./tuska.jpg";
 export { default as gorgutz } from "./gorgutz.webp";
 export { default as beast } from "./beast.webp";
 export { default as orks } from "./orks.webp";
+export { default as orkProfile } from "./orksProfile.webp";
