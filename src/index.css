@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@font-face{
+    font-family:"norse";
+    src:url("./assets/norse/Norse.otf") format("opentype");
+    font-weight:400;
+}
+
+@font-face{
+    font-family: "norse";
+    src:url("./assets/norse/Norse-Bold.otf") format("opentype");
+    font-weight: 700;
+}
+
+@theme{
+    --font-norse:"norse", ui-sans-serif, system-ui;
+}
+
+@layer base{
+    body{
+        @apply font-norse font-normal;
+    }
+}

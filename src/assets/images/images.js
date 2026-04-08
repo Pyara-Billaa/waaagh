@@ -1,0 +1,10 @@
+export { default as orkLogo } from "./orkIcon.webp";
+export { default as orkBoysImg } from "./ork-boys.jpg";
+export { default as gorkMorkImg } from "./gork-mork.webp";
+export { default as gazghkull } from "./gazghkull.jpg";
+export { default as grimskull } from "./grimskull.jpg";
+export { default as snagrod } from "./snagrod.webp";
+export { default as tuska } from "./tuska.jpg";
+export { default as gorgutz } from "./gorgutz.webp";
+export { default as beast } from "./beast.webp";
+export { default as orks } from "./orks.webp";
