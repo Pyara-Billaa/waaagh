@@ -11,7 +11,7 @@ import {
 
 export default function Main() {
   return (
-    <main>
+    <main className="bg-[#FAFAFA]">
       <section
         className="
       grid grid-cols-1 gap-12 p-4 mt-3
